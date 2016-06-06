@@ -15,4 +15,7 @@ Package.onUse(function onUse(api) {
     'activeroute:core@0.0.1',
     'kadira:flow-router@2.12.1',
   ]);
+
+  api.mainModule('client/activeroute-flowrouter.js', 'client');
+  api.mainModule('server/activeroute-flowrouter.js', 'server');
 });
