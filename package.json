@@ -1,0 +1,24 @@
+{
+  "name": "active-route-flow-router",
+  "version": "0.0.1",
+  "description": "Flow-Router adapter for active-route",
+  "main": "lib/activeroute-flowrouter.js",
+  "devDependencies": {
+    "eslint": "^2.11.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-jsx-a11y": "^1.3.0",
+    "eslint-plugin-meteor": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meteor-activeroute/flow-router.git"
+  },
+  "author": "Simon Fridlund",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/meteor-activeroute/flow-router/issues"
+  },
+  "homepage": "https://github.com/meteor-activeroute/flow-router"
+}
