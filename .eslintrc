@@ -15,16 +15,6 @@
     "meteor"
   ],
   "rules": {
-    "new-cap": [ 2, {
-      "capIsNewExceptions": [
-        "Match.Any", "Match.Object", "Match.ObjectIncluding",
-        "Match.OneOf", "Match.Optional", "Match.Where", "Match.Integer",
-        "Match.Maybe"
-      ]
-    }],
-    "meteor/eventmap-params": [ 2, {
-      "templateInstanceParamName": "instance"
-    }],
     "import/no-unresolved": [ 2, {
       "ignore": ["^meteor/"]
     }]
