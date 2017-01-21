@@ -8,7 +8,7 @@ Package.describe({
 });
 
 Package.onUse(function onUse(api) {
-  api.versionsFrom('1.3.2.4');
+  api.versionsFrom('1.4.2.2');
 
   api.use('ecmascript');
 
