@@ -18,5 +18,4 @@ Package.onUse(function onUse(api) {
   ]);
 
   api.mainModule('client/activeroute-flowrouter.js', 'client');
-  api.mainModule('server/activeroute-flowrouter.js', 'server');
 });
