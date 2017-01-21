@@ -27,4 +27,7 @@
     "url": "https://github.com/meteor-activeroute/flow-router/issues"
   },
   "homepage": "https://github.com/meteor-activeroute/flow-router",
+  "scripts": {
+    "lint": "eslint ."
+  }
 }
