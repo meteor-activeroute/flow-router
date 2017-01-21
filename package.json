@@ -1,7 +1,7 @@
 {
-  "name": "active-route-flow-router",
-  "version": "0.0.1",
-  "description": "Flow-Router adapter for active-route",
+  "name": "meteor-active-route-flow-router",
+  "version": "0.1.0",
+  "description": "kadira:flow-router adapter for activeroute:core",
   "main": "package.js",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/meteor-activeroute/flow-router.git"
+    "url": "git+https://github.com/meteor-activeroute/flow-router.git"
   },
   "author": "Simon Fridlund",
   "license": "MIT",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/meteor-activeroute/flow-router/issues"
   },
-  "homepage": "https://github.com/meteor-activeroute/flow-router"
+  "homepage": "https://github.com/meteor-activeroute/flow-router",
 }
