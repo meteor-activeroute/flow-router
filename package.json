@@ -4,14 +4,16 @@
   "description": "Flow-Router adapter for active-route",
   "main": "package.js",
   "devDependencies": {
-    "eslint": "^2.11.1",
-    "eslint-config-airbnb": "^9.0.1",
-    "eslint-plugin-import": "^1.8.1",
-    "eslint-plugin-meteor": "^3.6.0"
     "babel-eslint": "^7.1.1",
     "babel-preset-es2016": "^6.16.0",
     "babel-preset-es2017": "^6.16.0",
     "babel-preset-stage-2": "^6.18.0",
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-meteor": "^4.0.1",
+    "eslint-plugin-no-use-extend-native": "^0.3.12",
+    "eslint-plugin-prefer-object-spread": "^1.1.0",
   },
   "repository": {
     "type": "git",
