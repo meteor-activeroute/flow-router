@@ -4,7 +4,7 @@ Package.describe({
   git: 'git+https://github.com/activeroute/flow-router.git',
   name: 'activeroute:flow-router',
   summary: 'kadira:flow-router adapter for activeroute:core.',
-  version: '1.0.0-alpha.1',
+  version: '1.0.0-alpha.6',
 });
 
 Package.onUse(function onUse(api) {
