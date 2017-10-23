@@ -10,7 +10,6 @@
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-meteor": "^4.1.6",
-    "eslint-plugin-no-unused-vars-rest": "^1.0.4",
     "eslint-plugin-no-use-extend-native": "^0.3.12",
     "eslint-plugin-prefer-object-spread": "^1.1.0",
     "flow-bin": "^0.57.3"
