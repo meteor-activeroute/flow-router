@@ -1,5 +1,5 @@
 // @flow
-import FlowRouter from 'meteor/kadira:flow-router';
+import FlowRouter from "meteor/kadira:flow-router";
 
 const clientAdapter = {
   getCurrentName() {
