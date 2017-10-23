@@ -14,7 +14,6 @@ module.exports = {
   parser: 'babel-eslint',
   plugins: [
     'meteor',
-    'no-unused-vars-rest',
     'no-use-extend-native',
     'prefer-object-spread',
   ],
