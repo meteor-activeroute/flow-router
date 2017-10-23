@@ -34,10 +34,6 @@ module.exports = {
     'no-param-reassign': ['warn', {
       props: true,
     }],
-    'no-unused-vars': 'off',
-    'no-unused-vars-rest/no-unused-vars': ['error', {
-      ignoreDestructuredVarsWithRest: true,
-    }],
     'no-use-extend-native/no-use-extend-native': 'error',
     'prefer-arrow-callback': ['error', {
       allowNamedFunctions: true,
